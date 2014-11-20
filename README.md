@@ -10,7 +10,7 @@ $ npm install cofy-mongodb --save
 ```
 **Old methods not change.New methods invoke convention: `yield obj.$asyncMethod`**
 
-
+### Example:
 ```js
 var mongodb = require('cofy-mongodb');
 var MongoClient = mongodb.MongoClient;

@@ -1,5 +1,6 @@
 cofy-mongodb
 ==========
+[![Build Status](https://travis-ci.org/RocksonZeta/cofy-mongodb.svg?branch=master)](https://travis-ci.org/RocksonZeta/cofy-mongodb)
 
 co version [node-mongodb-native](https://github.com/mongodb/node-mongodb-native).
 
